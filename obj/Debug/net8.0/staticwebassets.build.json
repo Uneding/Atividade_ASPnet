@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "gk7atwnP/mi/qr2HJHKiV4da1CP5a/rJMrHtXjLpvmI=",
+  "Source": "Atividade_ASPnet",
+  "BasePath": "_content/Atividade_ASPnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Atividade_ASPnet\\wwwroot",
+      "Source": "Atividade_ASPnet",
+      "ContentRoot": "C:\\Users\\55319\\OneDrive\\Área de Trabalho\\Trabalho\\Atividade_ASPnet\\wwwroot\\",
+      "BasePath": "_content/Atividade_ASPnet",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

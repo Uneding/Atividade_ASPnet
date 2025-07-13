@@ -1,4 +1,4 @@
-using MeuProjetoWeb.Data;
+using Atividade_ASPnet.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
